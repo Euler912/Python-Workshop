@@ -1,2 +1,2 @@
 # Python-Workshop
-using mathematics tool in python
+Using mathematics tool in python
